@@ -3,7 +3,7 @@ package weekdays.assnmnts;
 public class InterSecArrays {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated 
 		int[] arr1 = {3,2,11,4,6,7};
 		int[] arr2 = {1,2,8,4,9,7};
 		System.out.println("Intersection of the two arrays ::");

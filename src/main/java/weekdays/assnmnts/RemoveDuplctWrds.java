@@ -30,7 +30,7 @@ public class RemoveDuplctWrds {
 			}
 		
 		}
-		for(int k=0;k<words.length;k++)		//Displaying the String without duplicate words	
+		for(int k=0;k<words.length;k++)		//Displaying the String without duplicate words	more
 		{
 			if(words[k]!=null)
 			{
